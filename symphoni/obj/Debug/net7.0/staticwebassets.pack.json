@@ -1,0 +1,961 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\symphoni.bundle.scp.css",
+      "PackagePath": "staticwebassets\\symphoni.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\colors\\color-2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\color-2.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\colors\\color-3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\color-3.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\colors\\color-4.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\color-4.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\colors\\color-5.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\color-5.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\colors\\color-6.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\color-6.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\colors\\color-7.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\color-7.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\colors\\color-8.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\color-8.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\colors\\color-9.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\color-9.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\colors\\switch.css",
+      "PackagePath": "staticwebassets\\assets\\css\\colors\\switch.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\images\\ui-icons_444444_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_444444_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\images\\ui-icons_555555_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_555555_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\images\\ui-icons_777620_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_777620_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\images\\ui-icons_777777_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_777777_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\images\\ui-icons_cc0000_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_cc0000_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\images\\ui-icons_ffffff_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_ffffff_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\progess.css",
+      "PackagePath": "staticwebassets\\assets\\css\\progess.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\css\\video.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\video.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\Flaticon.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\Flaticond41d.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticond41d.html"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\about\\ab-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\ab-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\about\\abt-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\abt-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\about\\abt-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\abt-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\about\\abt-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\abt-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\about\\abt.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\abt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\about\\phone.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\phone.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\brt-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\brt-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\bt.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\bt.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\cf-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\cf-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\contact-b.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\contact-b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\fq-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\fq-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\hb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\hb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\p-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\p-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\p-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\p-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\pb.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\pb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\s-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\s-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\s-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\s-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\s-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\s-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\sd-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\sd-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\teacher-b.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\teacher-b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\tesit-b-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\tesit-b-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\v-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\v-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\wc-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\wc-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\banner\\wc-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\wc-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\blog\\ath-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\ath-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\blog\\ath.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\ath.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\blog\\bd-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\bd-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\blog\\bp-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\bp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\blog\\bp-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\bp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\blog\\bp-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\bp-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\blog\\bp-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\bp-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\blog\\bp-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\bp-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\blog\\fb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\fb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\blog\\lb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\lb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\blog\\lb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\lb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\close.png",
+      "PackagePath": "staticwebassets\\assets\\img\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\course\\bc-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\bc-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\course\\bc-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\bc-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\course\\bc-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\bc-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\course\\bc-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\bc-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\course\\bc-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\bc-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\course\\bc-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\bc-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\course\\bc-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\bc-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\course\\bc-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\bc-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\course\\c-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\c-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\course\\c-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\c-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\course\\c-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\c-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\course\\cl-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\cl-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\course\\cl-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\cl-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\course\\cl-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\cl-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\course\\cl-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\cl-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\course\\cl-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\cl-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\course\\cs-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\course\\cs-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\gallery\\g-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\g-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\gallery\\g-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\g-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\gallery\\g-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\g-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\gallery\\g-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\g-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\gallery\\g-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\g-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\gallery\\g-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\g-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\logo-no-background.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-no-background.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\logo\\f-logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\f-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\logo\\logo-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\logo\\logo-no-background.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo-no-background.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\logo\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\logo\\p-logo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\p-logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\next.png",
+      "PackagePath": "staticwebassets\\assets\\img\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\preloader.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\prev.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\product\\bp-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\bp-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\product\\bp-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\bp-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\product\\bp-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\bp-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\product\\bp-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\bp-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\product\\bp-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\bp-5.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\product\\bp-6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\bp-6.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\product\\bs-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\bs-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\sponsor\\s-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sponsor\\s-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\sponsor\\s-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sponsor\\s-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\sponsor\\s-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sponsor\\s-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\sponsor\\s-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sponsor\\s-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\sponsor\\s-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sponsor\\s-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\sponsor\\s-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sponsor\\s-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\ct-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\ct-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\mt-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\mt-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\mt-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\mt-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\mt-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\mt-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\mt-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\mt-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\mt-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\mt-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\mt-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\mt-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\t-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\t-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\t-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\t-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\t-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\t-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\t-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\t-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\t-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\t-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\t-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\t-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\t-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\t-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\tb-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\tb-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\tb-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\tb-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\tb-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\tb-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\tb-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\tb-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\td-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\td-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\ts-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\ts-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\ts-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\ts-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\ts-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\ts-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\ts-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\ts-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\ts-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\ts-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\img\\teacher\\ts-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\teacher\\ts-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\js\\gmap3.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\gmap3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\js\\jarallax.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jarallax.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\js\\jquery-2.1.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-2.1.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\js\\jquery.meanmenu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.meanmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\js\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scrollreveal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\js\\switch.js",
+      "PackagePath": "staticwebassets\\assets\\js\\switch.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Symphoni\\symphoni\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.symphoni.props",
+      "PackagePath": "build\\symphoni.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.symphoni.props",
+      "PackagePath": "buildMultiTargeting\\symphoni.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.symphoni.props",
+      "PackagePath": "buildTransitive\\symphoni.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.symphoni.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
